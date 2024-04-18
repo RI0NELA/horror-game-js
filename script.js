@@ -1,5 +1,4 @@
-function game() {
-  console.log(
+console.log(
     "%cWelcome to my horror game!",
     "color: white; font-size: 42px; font-weight: bold;"
   );
@@ -134,5 +133,3 @@ function game() {
     );
   }
 }
-
-game();
